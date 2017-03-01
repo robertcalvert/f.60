@@ -1,0 +1,12 @@
+[submodule "firmware/tmk_keyboard"]
+	path = firmware/tmk_keyboard
+	url = https://github.com/tmk/tmk_keyboard
+[submodule "hardware/lib/keebs.pretty"]
+	path = hardware/lib/keebs.pretty
+	url = https://github.com/egladman/keebs.pretty.git
+[submodule "hardware/lib/keyboard_parts.pretty"]
+	path = hardware/lib/keyboard_parts.pretty
+	url = https://github.com/tmk/keyboard_parts.pretty.git
+[submodule "hardware/lib/kicad_lib_tmk"]
+	path = hardware/lib/kicad_lib_tmk
+	url = https://github.com/tmk/kicad_lib_tmk.git

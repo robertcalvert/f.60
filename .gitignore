@@ -1,0 +1,5 @@
+hardware/*-bak
+hardware/gerber.zip
+
+firmware/.dep
+firmware/*_lufa*
